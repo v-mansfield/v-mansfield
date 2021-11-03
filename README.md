@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @v-mansfield
+- 👋 Hi, I’m @victoria-reify
 - 👀 I’m interested in statistics and machine learning
 - 🌱 I’m currently learning all about Reify
 - 💞️ I’m looking to collaborate on data analytics projects
